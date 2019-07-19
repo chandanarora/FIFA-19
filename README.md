@@ -16,3 +16,5 @@ The following features have been chosen to predict the potential:
 9. Acceleration
 ### Target Vari1able
 The potential of a player has been chosen as the target variable. The potential of a player represents how a player would perform keeping in view that the player remains injury free for most the duration of the season.
+### Predictive Modelling
+I have used Regression model to predict the potential of a player based on other attributes present in the dataset. Linear Regression using one independent variable, Multiple Regression and Polynomial Regression have been used to predict the Potential and their accuracy has been compared.
