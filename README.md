@@ -18,3 +18,5 @@ The following features have been chosen to predict the potential:
 The potential of a player has been chosen as the target variable. The potential of a player represents how a player would perform keeping in view that the player remains injury free for most the duration of the season.
 ### Predictive Modelling
 I have used Regression model to predict the potential of a player based on other attributes present in the dataset. Linear Regression using one independent variable, Multiple Regression and Polynomial Regression have been used to predict the Potential and their accuracy has been compared.
+
+This model can be further analysed using clustering algorithms to create clusters of players with a certain potential. For example, players with a potential greater than 95 can be clustered into a ‘special’ category, while players with potential between 90 and 94 can be categorized as ‘exciting’, and so on.
