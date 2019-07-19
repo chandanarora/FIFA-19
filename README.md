@@ -14,3 +14,5 @@ The following features have been chosen to predict the potential:
 7. Ball Control
 8. Dribbling
 9. Acceleration
+### Target Vari1able
+The potential of a player has been chosen as the target variable. The potential of a player represents how a player would perform keeping in view that the player remains injury free for most the duration of the season.
